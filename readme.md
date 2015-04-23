@@ -42,7 +42,7 @@ Actions and Groups are added on first reference.
 
 You have direct access to Groups (a basic `map[string][]string`) and Actions (a `[]string` array), if you need it.
 
-**Permissions are case-sensative; use of constants is recommended.**
+**Permissions are case-sensitive; use of constants is recommended.**
 
 _I chose strings to represent permissions since they are the most flexible form of generic-type storage._
 
